@@ -1,5 +1,5 @@
 import React from "react";
-import { Todo } from "../../modules/todo";
+import { Todo } from "../../modules/todo/todo";
 import TodoItem from "./TodoItem";
 
 interface TodoItemList {

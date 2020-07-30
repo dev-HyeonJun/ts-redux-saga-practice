@@ -1,5 +1,5 @@
 import React from "react";
-import { Todo } from "../../modules/todo";
+import { Todo } from "../../modules/todo/todo";
 import styled from "styled-components";
 
 interface TodoItemProps {
